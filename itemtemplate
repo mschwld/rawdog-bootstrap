@@ -1,0 +1,11 @@
+<div class="card">
+<div class="card-header">
+__title__
+[__feed_title__]
+</div>
+<div class="card-body">
+__if_description__
+__description__
+__endif__
+</div>
+</div><br/>

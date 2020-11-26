@@ -1,0 +1,8 @@
+<table class="table">
+<thead>
+<tr>
+<th>Feed</th><th>RSS</th><th>Last fetched</th><th>Next fetched after</th>
+</tr>
+__feeditems__
+</thead>
+</table>
